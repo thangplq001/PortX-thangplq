@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_File upload area</name>
+   <tag></tag>
+   <elementGuidId>a12b1f4d-abb5-456e-afca-edba02323e40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='abp-modal-body']/div/div/app-file-import/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.dropzone.w-100.dz-clickable</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>67b5bc41-b75c-4411-b7ea-2acd36b2d806</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropzone w-100 dz-clickable</value>
+      <webElementGuid>6770e008-b047-4eaa-b37a-351dc4d07966</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>file_undefined</value>
+      <webElementGuid>81320d20-5c7f-4cb0-bea1-d2c487b25f4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>File upload area</value>
+      <webElementGuid>54b20a8c-6d29-4841-9bba-16d4442a7ee9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;abp-modal-body&quot;)/div[@class=&quot;mt-2 fade-in-top&quot;]/div[@class=&quot;mb-2&quot;]/app-file-import[1]/label[@class=&quot;dropzone w-100 dz-clickable&quot;]</value>
+      <webElementGuid>2648cc84-4d1f-4dcb-8fd3-6aa971b8b61e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='abp-modal-body']/div/div/app-file-import/label</value>
+      <webElementGuid>227ba8c8-dbb3-421e-98ce-b7574ef77d5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-file-import/label</value>
+      <webElementGuid>151aa8f8-3363-4b66-ad4a-8b05293efb47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'File upload area' or . = 'File upload area')]</value>
+      <webElementGuid>335007f7-f7db-4122-b05b-0bad237b1c63</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

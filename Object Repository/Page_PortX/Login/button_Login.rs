@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Login</name>
+   <tag></tag>
+   <elementGuidId>42769d05-0930-4d2b-99e9-99538b567bfe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@name='Action']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button[name=&quot;Action&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8ee61d62-84e3-409a-b39d-8151a4944d34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>f98c5f4e-1fa5-4755-8226-f877ad35ba0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-3 btn btn-primary</value>
+      <webElementGuid>8db4c1f3-a0ab-4508-8e34-8a184eaab535</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Action</value>
+      <webElementGuid>ef3457b5-445e-4c8c-98f8-6ca2c500a29c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>6cf329ea-81ed-4dd8-ba5d-fd7d815a6c91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-busy-text</name>
+      <type>Main</type>
+      <value>Processing...</value>
+      <webElementGuid>a1f7b221-7671-49b5-8410-99763976e942</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    
+                    Login
+                </value>
+      <webElementGuid>c57c3da2-6136-4371-9427-02f7f836773d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;abp-account-layout lpx-theme-light&quot;]/div[@class=&quot;container-fluid p-0 overflow-hidden&quot;]/div[@class=&quot;lpx-login-area&quot;]/div[@class=&quot;lpx-login-bg&quot;]/div[@class=&quot;d-flex flex-column justify-content-center min-vh-100&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xxl-5 col-lg-7 col-md-8 col-11 mx-auto position-relative py-4&quot;]/div[@class=&quot;card mx-auto&quot;]/div[@class=&quot;card-body p-3 p-sm-4&quot;]/div[@class=&quot;account-module-form&quot;]/form[1]/div[@class=&quot;d-grid gap-2&quot;]/button[@class=&quot;mb-3 btn btn-primary&quot;]</value>
+      <webElementGuid>1077d675-638a-45df-a4be-9c6968fd2dc3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@name='Action']</value>
+      <webElementGuid>a26732ed-e89b-4151-952d-52ad808f0821</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>5453d309-f2ee-4d06-b871-4f6e546ea2eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @name = 'Action' and (text() = '
+                    
+                    Login
+                ' or . = '
+                    
+                    Login
+                ')]</value>
+      <webElementGuid>a12e7230-ff32-4e6c-b014-4fc6951fbc20</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Master-Ports</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8c2ad5b-354f-4661-b3f3-afb24ece3241</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8aa56be2-2750-4566-bd4b-74dcff454138</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'F:\\Katalon Studio\\PortX(testcase)\\Data Files\\Import\\PortMaster.xlsx'</defaultValue>
+      <description></description>
+      <id>8aa56be2-2750-4566-bd4b-74dcff454138</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+</TestCaseEntity>

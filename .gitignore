@@ -1,1 +1,6 @@
 test
+/bin/
+/Libs/
+/.settings/
+/.classpath
+.svn/
